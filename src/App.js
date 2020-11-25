@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./Header.js";
 import Meme from "./Memegenerator.js";
 
-import "./styles.css";
+import "../public/styles.css";
 
 function App() {
   return (
